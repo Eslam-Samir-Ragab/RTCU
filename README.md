@@ -1,5 +1,5 @@
 # Reverse Translator by Codon Usage (RTCU)
- The program uses the codon usage preference of your choice to reverse translate a protein or DNA sequence
+ The program uses the codon usage preference of your choice to reverse translate a protein.
 
 ## How to use:
 1.	you need to install [python 2.7](https://www.python.org/downloads/) or [python 3](https://www.python.org/downloads/) on your machine.
