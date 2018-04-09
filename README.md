@@ -20,7 +20,7 @@ If you want to reverse translate a protein sequence do the following:
 3. use this file as a guide for the program by applying this command:  
 `python rtcu.py -in (input_file) -out (output_file) -codon_usage mycodons.txt`
 
-### **The full RTCU Cheat sheet and notes are [here](https://github.com/Eslam-Samir-Ragab/RTCU/blob/master/RTCU%20Cheat%20sheet.pdf)**
+### **The full RTCU Cheat sheet and notes are [here](https://github.com/Eslam-Samir-Ragab/RTCU/blob/master/additional/RTCU%20Cheat%20sheet.pdf)**
 
 
 ### Any errors please send me an email to <eslam.ebrahim@pharma.cu.edu.eg>
