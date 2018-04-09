@@ -23,5 +23,5 @@ If you want to reverse translate a protein sequence do the following:
 ### **The full RTCU Cheat sheet and notes are [here](https://github.com/Eslam-Samir-Ragab/RTCU/blob/master/additional/RTCU%20Cheat%20sheet.pdf)**
 
 
-### Any errors please send me an email to <eslam.ebrahim@pharma.cu.edu.eg>
+### Any errors please send me an email to <eslam_samir_ragab.ibrahim@stud-mail.uni-wuerzburg.de> or <eslam.ebrahim@pharma.cu.edu.eg>
 ## Visit [my website](https://sites.google.com/pharma.cu.edu.eg/eslam-ibrahim/) for more details, other publications, and contact
